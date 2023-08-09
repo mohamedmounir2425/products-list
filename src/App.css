@@ -91,3 +91,12 @@ form input[type="submit"]:hover{
     font-size: 18px;
     border: 2px solid #08080833;
 }
+.quantity {
+    padding: 0 20px;
+}
+.quantityBtn {
+    padding: 0 10px;
+    font-size: 20px;
+    line-height: 1.2;
+    cursor: pointer;
+}
